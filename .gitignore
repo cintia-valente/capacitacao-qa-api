@@ -28,6 +28,7 @@ settings.gradle
 *.iws
 out/
 .idea_modules/
+.node_modules/
 
 ##########################
 ## Eclipse
