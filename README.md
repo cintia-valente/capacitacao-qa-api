@@ -5,10 +5,10 @@ Desafio de automação de testes da empresa DBServer, desenvolvido para realizar
 
 ## Execução
 <ul>
-  <li>Abra um ambiente de desenvolvimento JAVA</li>
-  <li>Abra o projeto desafio-web</li>
-  <li>Acesse as classe que estão localizadas no pacote "src/test/java/TestCases/viaCep"</li>
-  <li>Execute as classe clicando no botão Run</li>
+  <li>Abra um ambiente de desenvolvimento JAVA.</li>
+  <li>Abra o projeto capacitacao-qa-api.</li>
+  <li>Acesse as classes que estão localizadas no pacote "src/test/java/testCases/viaCep".</li>
+  <li>Execute os testes clicando no botão Run em cada classe.</li>
 </ul>
 
 ## Tecnologias utilizadas
