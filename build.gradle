@@ -16,18 +16,6 @@ repositories {
     mavenCentral()
 }
 
-allure{
-
-    autoconfigure = true
-    version = '2.13.3'
-
-    useJUnit5{
-        version = '2.13.3'
-
-    }
-
-}
-
 test{
 
     useJUnitPlatform()
