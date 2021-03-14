@@ -20,4 +20,4 @@ Desafio de automação de testes da empresa DBServer, desenvolvido para realizar
 <li>Consulta CEP válido, é retornado o CEP, logradouro, complemento, bairro, localidade, uf, ibge, gia, ddd e siafi.</li>
 <li>Consulta CEP inexistente, é retornado um atributo erro.</li>
 <li>Consulta CEP inválido, é retornado uma mensagem de erro.</li>
-<li>Consulta o retorno do link https://viacep.com.br/ws/RS/Gravatai/Barroso/json, é retornado o CEP, logradouro, complemento, bairro, localidade, uf, ibge, gia, ddd e siafi, referente a localidade e logradouro informado no link.</li>
+<li>Consulta o retorno do link https://viacep.com.br/ws/RS/Gravatai/Barroso/json, é retornado o CEP os mesmos atributos do teste Consultar CEP válido, referente a localidade e logradouro informado no link.</li>
