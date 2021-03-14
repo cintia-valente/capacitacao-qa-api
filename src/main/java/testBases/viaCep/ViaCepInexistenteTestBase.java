@@ -8,6 +8,7 @@ import io.restassured.specification.ResponseSpecification;
 import org.junit.jupiter.api.BeforeAll;
 
 public class ViaCepInexistenteTestBase {
+    
     protected static RequestSpecification requestSpec;
     protected static ResponseSpecification responseSpec;
     protected static final String requestType = "json";
