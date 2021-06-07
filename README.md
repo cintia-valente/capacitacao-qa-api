@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/38113015/110805359-c4c9de00-825f-11eb-991e-25f4c98e1518.png" width="100"> 
 
 # Capacitação QA Testes e Automação API
-Desafio de automação de testes da empresa DBServer, desenvolvido para realizar testes utilizando o serviço do link https://viacep.com.br/ws/91060900/json.
+Desafio de automação de testes API da empresa DBServer, realizado para o projeto do Banrisul, desenvolvido para realizar testes utilizando o serviço do link https://viacep.com.br/ws/91060900/json.
 
 ## Execução
 <ul>
